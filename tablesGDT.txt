@@ -1,0 +1,16 @@
+AutoExport
+Bfc	- DEJA ENVOYES
+Classe Danger
+Segmentation
+Code Douanier
+Etat / Pays
+Groupe Appro
+Groupe Produit
+Groupe Techno Distribution
+Numero UN
+Objet Comptable
+Plateforme Finance
+Reach
+Secteur Activite	- DEJA ENVOYES
+Segmentation
+Unite De Mesure
